@@ -41,7 +41,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./packages/something/",\
         "packageDependencies": [\
           ["@reproduce/something", "workspace:packages/something"],\
-          ["react", "npm:18.2.0"]\
+          ["react", "npm:18.1.0"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -66,10 +66,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["react", [\
-      ["npm:18.2.0", {\
-        "packageLocation": "./.yarn/cache/react-npm-18.2.0-1eae08fee2-b9214a9bd7.zip/node_modules/react/",\
+      ["npm:18.1.0", {\
+        "packageLocation": "./.yarn/cache/react-npm-18.1.0-d66a868dc8-d1ec025276.zip/node_modules/react/",\
         "packageDependencies": [\
-          ["react", "npm:18.2.0"],\
+          ["react", "npm:18.1.0"],\
           ["loose-envify", "npm:1.4.0"]\
         ],\
         "linkType": "HARD"\

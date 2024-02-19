@@ -4,6 +4,9 @@
     "packages/*"
   ],
   "packageManager": "yarn@4.1.0",
+  "resolutions": {
+    "react@^18.2.0": "18.1.0"
+  },
   "devDependencies": {
     "turbo": "1.12.4-canary.1"
   }
